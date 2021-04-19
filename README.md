@@ -1,6 +1,23 @@
 # mc-addon-translations
 Holds all language files for addon's created by Hatchibombotar
 
+## Contributing
+
+### Steps for Beginners
+ - make github account
+ - fork the repository
+ - make changes, commit changes, push changes
+ - create pull requests
+### How to translate
+`.lang` files are organised in key=value
+
+For example:
+`entity.graves:grave.name=Grave`
+
+In this case the key is `entity.graves:grave.name` and the value is `Grave`. You only translate the value.
+
+If you are having problems with github you are welcome to ask for help in my [discord server](https://discord.gg/wymvPkYVCz)
+
 ## Progress
 ### Graves
 - [ ] Bulgarian
