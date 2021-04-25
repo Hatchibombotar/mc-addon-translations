@@ -28,7 +28,7 @@ If you are having problems with github you are welcome to ask for help in my [di
 - [ ] Spanish (Spain)
 - [ ] Spanish (Mexico)
 - [ ] Finnish
-- [ ] French
+- [x] French
 - [ ] French (Canada)
 - [ ] Hungarian
 - [x] Indonesian
@@ -86,7 +86,7 @@ If you are having problems with github you are welcome to ask for help in my [di
 - [ ] Spanish (Spain)
 - [ ] Spanish (Mexico)
 - [ ] Finnish
-- [ ] French
+- [x] French
 - [ ] French (Canada)
 - [ ] Hungarian
 - [x] Indonesian
